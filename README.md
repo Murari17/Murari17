@@ -1,16 +1,89 @@
-## Hi there 👋
+<!-- Animated and Enhanced GitHub Profile README -->
 
-<!--
-**Murari17/Murari17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm <span style="color:#f78d1e;">Murari</span></h1>
+<h3 align="center">🖥️ Full-Stack Developer | 🤖 AI/ML Enthusiast </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F78D1E&center=true&vCenter=true&width=600&lines=Innovating+with+AI+and+Code;AI%2FML+Pioneer;Full-stack+Engineer;Building+the+Future" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🧠 About Me
+
+- 🔭 Currently building **cutting-edge AI projects** and **robust full-stack applications**
+- 🌱 Learning about **Generative AI, GANs, LLMs, scalable backend architecture**
+- 💬 Ask me anything about **React, Flask, Python, Firebase, and ML**
+- 📫 Contact: **murariprasadsamal@gmail.com**
+- 🎵 Fun fact: I debug best while vibing to **lofi beats**
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/murari-samal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/murari_samal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/murariprasadsamal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:murariprasadsamal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,firebase,python,flask,tensorflow,cpp,js,html,css,git,vscode" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Murari17&theme=radical&no-frame=true&no-bg=true&margin-w=20" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Murari17&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Murari17&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murari17&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murari17&theme=rogue" />
+</p>
+
+---
+
+### 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Murari17&label=Profile+views&color=brightgreen&style=flat-square" />
+</p>
+
+---
+
+### 🎯 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
