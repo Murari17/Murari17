@@ -1,7 +1,7 @@
 <!-- Animated and Enhanced GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm <span style="color:#f78d1e;">Murari</span></h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast </h3> | Open Source Contributor
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F78D1E&center=true&vCenter=true&width=600&lines=Innovating+with+AI+and+Code;AI%2FML+Pioneer;Full-stack+Engineer;Building+the+Future" alt="Typing SVG" />
